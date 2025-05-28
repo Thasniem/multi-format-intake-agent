@@ -1,0 +1,10 @@
+From: Alice <alice@example.com>
+To: support@example.com
+Subject: Request for Quotation
+
+Hello Team,
+
+I would like to request a quotation for 100 units of Product X. Please include shipping costs and delivery estimates.
+
+Best regards,
+Alice
