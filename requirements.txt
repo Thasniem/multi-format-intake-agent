@@ -1,0 +1,19 @@
+# Web framework
+fastapi==0.110.1
+uvicorn[standard]==0.29.0
+
+# Data handling
+pydantic==2.6.4
+
+# Optional: For Redis-based memory (if using RedisMemory)
+redis==5.0.3
+
+# Email parsing
+email-validator==2.1.0.post1
+
+# PDF handling (planned, optional)
+PyPDF2==3.0.1
+
+# General utilities
+python-dotenv==1.0.1
+
